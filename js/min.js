@@ -47,3 +47,7 @@ function validateDate(date) {
                                                                                                                     return null;
 
 }
+//
+submit.addEventListener('click' , (event) => {
+    console.log(fullName.value)
+})
