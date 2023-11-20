@@ -50,4 +50,4 @@ function validateDate(date) {
 //
 submit.addEventListener('click' , (event) => {
     console.log(fullName.value)
-})
+})  
